@@ -14414,8 +14414,7 @@ export default {
           "hyoban"
         ],
         "categories": [
-          "social-media",
-          "popular"
+          "social-media"
         ],
         "view": 3,
         "example": "/bilibili/ranking/0",
